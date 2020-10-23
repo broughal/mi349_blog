@@ -19,7 +19,8 @@ h1 {
 p {
   line-height: 1.4em;
   width: 600px;
-  margin: 20px
+  margin: 20px;
+  padding: 20px;
 }
 
 #blog {
