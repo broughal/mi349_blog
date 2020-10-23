@@ -18,7 +18,8 @@ h1 {
 
 p {
   line-height: 1.4em;
-  width: 400px;
+  width: 600px;
+  margin: 20px
 }
 
 #blog {
