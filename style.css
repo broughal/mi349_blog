@@ -46,6 +46,6 @@ a[target] {
   background-color: yellow;
 }
 
-a[th] {
-  background-color: yellow;
+a[colspan] {
+  background-color: pink;
 }
