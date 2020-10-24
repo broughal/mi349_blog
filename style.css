@@ -45,7 +45,3 @@ p {
 a[target] {
   background-color: yellow;
 }
-
-a[colspan] {
-  background-color: yellow;
-}
