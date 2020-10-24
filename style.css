@@ -42,6 +42,6 @@ p {
   border-bottom: 1px dotted #ccc;
 }
 
-a[] {
+a[target] {
   background-color: yellow;
 }
