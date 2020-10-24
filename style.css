@@ -45,3 +45,7 @@ p {
 a[target] {
   background-color: yellow;
 }
+
+ul {
+  background-color: yellow;
+}
