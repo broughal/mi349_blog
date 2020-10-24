@@ -45,3 +45,7 @@ p {
 a[target] {
   background-color: yellow;
 }
+
+a[table] {
+  background-color: pink;
+}
