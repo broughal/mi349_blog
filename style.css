@@ -62,3 +62,7 @@ ol {
   position: sticky;
   top: 0;
 }
+
+section {
+  display: flex;
+}
