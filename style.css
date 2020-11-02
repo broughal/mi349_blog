@@ -55,6 +55,7 @@ ol {
 
 .sidebar {
   color: white;
+  padding: 20px;
   background: green;
   position: sticky;
   top: 0;
