@@ -80,3 +80,7 @@ article:nth-of-type(2) {
 article:nth-of-type(3) {
   flex: 1;
 }
+
+.trophy {
+ float: left; 
+}
