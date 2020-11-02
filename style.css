@@ -67,12 +67,12 @@ section {
 }
 
 article {
-  padding: 15px;
-  margin: 15px;
+  padding: 10px;
+  margin: 10px;
 }
 
 article:nth-of-type(1) {
-  flex: 1;
+  flex: 100px;
 }
 
 article:nth-of-type(2) {
