@@ -3,7 +3,7 @@ html {
 }
 
 @media (max-width: 400px ) {
-    #blog {
+    #menu {
         background: red;
     }
 }
